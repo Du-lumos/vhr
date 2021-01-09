@@ -12,7 +12,7 @@ public class ChatMsg {
     public String getFromNickname() {
         return fromNickname;
     }
-	//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
     public void setFromNickname(String fromNickname) {
         this.fromNickname = fromNickname;
     }
