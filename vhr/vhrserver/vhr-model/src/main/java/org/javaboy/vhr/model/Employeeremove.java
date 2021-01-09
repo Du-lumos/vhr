@@ -1,7 +1,7 @@
 package org.javaboy.vhr.model;
 
 import java.util.Date;
-
+//xxxxxxxxxxxxx
 public class Employeeremove {
     private Integer id;
 
