@@ -59,6 +59,7 @@ public class MailReceiver {
             return;
         }
         //收到消息，发送邮件
+	//xxxxxxxxxxxxxxxxxx
         MimeMessage msg = javaMailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(msg);
         try {
